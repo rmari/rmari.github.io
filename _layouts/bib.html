@@ -139,6 +139,12 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+          {% if entry.hal %}
+            <a href="https://hal.univ-grenoble-alpes.fr/hal-{{ entry.hal }}" class="btn btn-sm z-depth-0" role="button">HAL</a>
+          {% endif %}
+          {% if entry.doi %}
+            <a href="{{ entry.doi | prepend: 'https://doi.org/' }}" class="btn btn-sm z-depth-0" role="button">Journal</a>
+          {% endif %}
           </div>
 
           {% if entry.abstract -%}
