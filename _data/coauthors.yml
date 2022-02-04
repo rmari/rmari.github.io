@@ -1,34 +1,162 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Kurchan":
+  - firstname: "Jorge"
+    url: https://scholar.google.fr/citations?user=18qQeMMAAAAJ&hl=fr
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Krzakala":
+  - firstname: "Florent"
+    url: http://www.lps.ens.fr/~krzakala/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Ghosh":
+  - firstname: "Antina"
+    url: http://scholar.google.com/citations?user=edr1o6MAAAAJ&hl=en
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Chikkadi":
+  - firstname: ["Vijayakumar", "Vijayakumar K."]
+    url: http://scholar.google.com/citations?user=Xex6qvIAAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Schall":
+  - firstname: "Peter"
+    url: http://peterschall.de/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Bonn":
+  - firstname: "Daniel"
+    url: https://scholar.google.com/citations?user=Se4J4uoAAAAJ&hl=fr
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Maggs":
+  - firstname: "Anthony C."
+    url: https://turner.pct.espci.fr/~amaggs/index2.html
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Atman":
+  - firstname: ["Allbens P. F."]
+    url: https://scholar.google.com/citations?user=di1vbtsAAAAJ&hl=en
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Claudin":
+  - firstname: "Philippe"
+    url: https://scholar.google.fr/citations?user=fH9Xhi4AAAAJ&hl=fr
+
+"Combe":
+  - firstname: "Gaël"
+    url:  http://perso.3sr-grenoble.fr/users/gcombe/
+
+"Makse":
+  - firstname: "Hernán A."
+    url: http://www-levich.engr.ccny.cuny.edu/~hmakse/
+
+"Baule":
+  - firstname: "Adrian"
+    url:  http://www.maths.qmul.ac.uk/~baule/
+
+"Song":
+  - firstname: "Chaoming"
+    url: https://people.miami.edu/profile/c.song@miami.edu
+
+"Danisch":
+  - firstname: "Maximilien"
+    url:  http://perso.crans.org/danisch/max/home.html
+
+"Seto":
+  - firstname: "Ryohei"
+    url:  https://ryseto.github.io/
+
+"Morris":
+  - firstname: ["Jeffrey", "Jeffrey F.", "J. F."]
+    url: https://www-levich.engr.ccny.cuny.edu/~jmorris/
+
+"Denn":
+  - firstname: ["Morton", "M.", "Morton M.", "M. M."]
+    url: http://lisgi1.engr.ccny.cuny.edu/mdcv.htm
+
+"Cates":
+  - firstname: ["Michael", "Michael E."]
+    url: http://www.damtp.cam.ac.uk/people/mec22/
+
+"Fielding":
+  - firstname: ["Suzanne", "Suzanne M."]
+    url: http://community.dur.ac.uk/suzanne.fielding/
+
+"Chacko":
+  - firstname: ["Rahul", "Rahul N.", "R. N."]
+    url: https://scholar.google.com/citations?user=SOYM1eUAAAAJ&hl=en
+
+"Ness":
+  - firstname: "Christopher"
+    url: https://christopherjness.github.io/
+
+"Tjhung":
+  - firstname: "Elsen"
+    url: https://elsentjhung.github.io/
+
+"Nardini":
+  - firstname: "Cesare"
+    url: https://scholar.google.fr/citations?user=F5AitakAAAAJ&hl=en
+
+"Chakraborty":
+  - firstname: "Bulbul"
+    url: https://www.brandeis.edu/departments/physics/chakraborty/index.html
+
+"Thomas":
+  - firstname: ["Jetin E."]
+    url: https://www.researchgate.net/profile/Jetin_E_Thomas
+
+"Sarkar":
+ -  firstname: "Sumantra"
+    url: http://sumantrasarkar.site/
+
+"Ramola":
+  - firstname: "Kabir"
+    url: http://www.tifrh.res.in/~kramola/
+
+"Singh":
+  - firstname: "Abhinendra"
+    url: https://www2.msm.ctw.utwente.nl/asingh/
+
+"Morone":
+  - firstname: "Flaviano"
+    url: https://scholar.google.com/citations?user=aQtVocUAAAAJ&hl=en
+
+"Min":
+  - firstname: "Byungjoon"
+    url: https://scholar.google.co.kr/citations?user=wrXRJjsAAAAJ&hl=en
+
+"Metzger":
+  - firstname: "Bloen"
+    url: https://bloenmetzger.wordpress.com/
+
+"Forterre":
+  - firstname: "Yoel"
+    url: https://yoelforterre.wordpress.com/
+
+"Athani":
+  - firstname: "Shivakumar"
+
+"Del Gado":
+  - firstname: "Emanuela"
+    url: https://physics.georgetown.edu/emanuela-delgado/
+
+"Martens":
+  - firstname: "Kirsten"
+    url: https://www-liphy.univ-grenoble-alpes.fr/pagesperso/martens/
+
+"Bertin":
+  - firstname: "Eric"
+    url: https://www-liphy.univ-grenoble-alpes.fr/pagesperso/bertin/
+
+"Vasisht":
+  - firstname: "Vishwas"
+    url: https://iitpkd.ac.in/people/vishwas
+
+"Ovarlez":
+  - firstname: "Guillaume"
+    url: https://www.lof.cnrs.fr/guillaume-ovarlez/
+
+"Smit":
+  - firstname: ["Wilbert J."]
+    url: https://orcid.org/0000-0002-0543-7258
+
+"Fall":
+  - firstname: ["Abdoulaye"]
+    url: https://navier-lab.fr/en/equipe/fall-abdoulaye/
+
+"Colin":
+  - firstname: "Annie"
+    url: https://scholar.google.fr/citations?user=TuNpAv8AAAAJ&hl=fr
