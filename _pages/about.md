@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www-liphy.univ-grenoble.fr/?lang=en'>LIPhy</a>, Univ. Grenoble-Alpes & CNRS, Grenoble
+subtitle: <a href='https://liphy.univ-grenoble-alpes.fr/?lang=en'>LIPhy</a>, Univ. Grenoble-Alpes & CNRS, Grenoble
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently working as a CNRS researcher (Chargé de Recherche) at the [Laboratoire Interdisciplinaire de Physique](https://www-liphy.ujf-grenoble.fr/?lang=en) in Grenoble, within the [Statistical Physics and Modeling](https://www-liphy.ujf-grenoble.fr/-PSM-?lang=en) group.
+I am currently working as a CNRS researcher (Chargé de Recherche) at the [Laboratoire Interdisciplinaire de Physique](https://liphy.univ-grenoble-alpes.fr/?lang=en) in Grenoble, within the [Statistical Physics and Modeling](https://liphy.univ-grenoble-alpes.fr/en/psm) group.
 
 I am interested in the structure and rheology of soft amorphous
 materials, like glasses, granular systems or dense suspensions. My
