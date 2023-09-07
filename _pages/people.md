@@ -17,4 +17,4 @@ horizontal: false
 ## former
 
 * Nicolas Cuny (PhD, 2018-2021, co-supervised with [Éric Bertin](https://www-liphy.univ-grenoble-alpes.fr/pagesperso/bertin/index.html)), now postdoc in the [Theoretical physics of biological development group](https://genev.unige.ch/research/laboratory/guillaume-salbreux), Université de Genève.
-* Shivakumar Athani (postdoc, 2019-2021), now postdoc in the [Srikanth Sastry group](https://www.jncasr.ac.in/faculty/sastry), Jawaharlal Nehru Centre for Advanced Scientific Research.
+* Shivakumar Athani (postdoc, 2019-2021), now postdoc at [Centre for Geotechnical Research, University of Sydney](https://www.sydney.edu.au/engineering/our-research/infrastructure-and-transport/sydney-centre-in-geomechanics-and-mining-materials.html).
