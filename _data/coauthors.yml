@@ -40,7 +40,7 @@
 
 "Makse":
   - firstname: "Hernán A."
-    url: http://www-levich.engr.ccny.cuny.edu/~hmakse/
+    url: https://hmakse.ccny.cuny.edu/
 
 "Baule":
   - firstname: "Adrian"
@@ -60,11 +60,11 @@
 
 "Morris":
   - firstname: ["Jeffrey", "Jeffrey F.", "J. F."]
-    url: https://www-levich.engr.ccny.cuny.edu/~jmorris/
+    url: https://levich.ccny.cuny.edu/morris-laboratory/
 
 "Denn":
   - firstname: ["Morton", "M.", "Morton M.", "M. M."]
-    url: http://lisgi1.engr.ccny.cuny.edu/mdcv.htm
+    url: https://levich.ccny.cuny.edu/morton-denn/
 
 "Cates":
   - firstname: ["Michael", "Michael E."]
@@ -108,7 +108,7 @@
 
 "Singh":
   - firstname: "Abhinendra"
-    url: https://www2.msm.ctw.utwente.nl/asingh/
+    url: https://csed9.cwru.edu/about/school-directory/abhinendra-singh
 
 "Morone":
   - firstname: "Flaviano"
@@ -147,7 +147,7 @@
 
 "Ovarlez":
   - firstname: "Guillaume"
-    url: https://www.lof.cnrs.fr/guillaume-ovarlez/
+    url: https://www.researchgate.net/profile/Guillaume-Ovarlez
 
 "Smit":
   - firstname: ["Wilbert J."]
@@ -160,3 +160,7 @@
 "Colin":
   - firstname: "Annie"
     url: https://scholar.google.fr/citations?user=TuNpAv8AAAAJ&hl=fr
+
+"Gillissen":
+  - firstname: ["Jurriaan", "Jurriaan J. J."]
+    url: https://scholar.google.com/citations?user=cOq3aMwAAAAJ&hl=en
