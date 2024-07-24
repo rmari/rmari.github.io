@@ -12,7 +12,8 @@ horizontal: false
 
 
 * Tristan Jocteur (PhD, 2022-, co-supervised  with [Éric Bertin](https://www-liphy.univ-grenoble-alpes.fr/pagesperso/bertin/index.html)).
-
+* Pappu Acharya (Postdoc, 2024-)
+* Adam Trigui (Master internship, 2024)
 
 ## former
 
