@@ -10,8 +10,10 @@ horizontal: false
 
 ## current
 
-* Tristan Jocteur (PhD, 2022-, co-supervised  with [Éric Bertin](https://www-liphy.univ-grenoble-alpes.fr/pagesperso/bertin/index.html)).
+* Tristan Jocteur (PhD, 2022-2025, co-supervised  with [Éric Bertin](https://www-liphy.univ-grenoble-alpes.fr/pagesperso/bertin/index.html)).
 * Pappu Acharya (Postdoc, 2024-)
+* Liheng Yao (Postdoc, 2025-)
+
 
 ## former
 
