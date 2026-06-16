@@ -123,7 +123,7 @@
     url: https://bloenmetzger.wordpress.com/
 
 "Forterre":
-  - firstname: "Yoel"
+  - firstname: ["Yoel", "Yoël"]
     url: https://yoelforterre.wordpress.com/
 
 "Athani":
@@ -135,11 +135,11 @@
 
 "Martens":
   - firstname: "Kirsten"
-    url: https://www-liphy.univ-grenoble-alpes.fr/pagesperso/martens/
+    url: https://liphy-annuaire.univ-grenoble-alpes.fr/pages_personnelles/kirsten_martens/
 
 "Bertin":
   - firstname: "Eric"
-    url: https://www-liphy.univ-grenoble-alpes.fr/pagesperso/bertin/
+    url: https://liphy-annuaire.univ-grenoble-alpes.fr/pages_personnelles/eric_bertin/
 
 "Vasisht":
   - firstname: "Vishwas"
@@ -164,3 +164,7 @@
 "Gillissen":
   - firstname: ["Jurriaan", "Jurriaan J. J."]
     url: https://scholar.google.com/citations?user=cOq3aMwAAAAJ&hl=en
+
+"Blanc":
+  - firstname: "Frédéric"
+    url: https://scholar.google.com/citations?user=PJcwLlgAAAAJ&hl=fr
